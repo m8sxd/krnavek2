@@ -1,3 +1,9 @@
 h2 {
     background-color: lightgoldenrodyellow;
 }
+
+p {
+    color: red;
+    text-align: center;
+    font-size: 40px;
+}
